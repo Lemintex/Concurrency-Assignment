@@ -4,4 +4,4 @@ This is a university assignment where I was tasked with creating two traffic lig
 
 The advanced task implemented uses 'dumber' traffic lights that are managed by a controller class that manages the distribution of the token.
 # What mark did you get for this?
-for this assignment I scored 93% which I was very happy with.
+For this assignment I scored 93% which I was very happy with.
